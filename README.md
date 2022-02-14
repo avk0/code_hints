@@ -1,2 +1,2 @@
 # code_hints
-Useful hints for Python coding
+Useful hints for coding
