@@ -1,8 +1,8 @@
 ### Python Environment
 
 create new virtual environment \
-`virtualenv -p python3 env`
-`source env/bin/activate`
+`virtualenv -p python310 env` \
+`source env/bin/activate` - Windows
 
 install packages
 `pip install torch`
