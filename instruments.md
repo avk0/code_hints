@@ -1,6 +1,7 @@
-## Web API requests
-Postman
-https://www.postman.com/
+## Web
 
-Swagger
-https://swagger.io/
+Web API requests -
+[Postman](https://www.postman.com/)
+
+Web API Documentation -
+[Swagger](https://swagger.io/)
