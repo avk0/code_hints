@@ -1,11 +1,14 @@
-### Python Environment
-
+## Python Environment
 create new virtual environment \
 `virtualenv -p python310 env` \
 `source env/bin/activate` - Windows
 
-install packages
-`pip install torch`
-`git clone REPO_https_address`
-`cd REPO`
-`python setup.py install`
+## Python Web
+Load Testing - [Locust](https://github.com/locustio/locust)
+
+## Python BI Dashboards
+Streamlit 
+https://streamlit.io/
+
+Dash 
+https://dash.plotly.com/
