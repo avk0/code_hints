@@ -2,7 +2,8 @@
 
 create new virtual environment \
 `virtualenv -p python310 env` \
-`source env/bin/activate` - Windows
+`source env/bin/activate` - Linux
+`env/Scripts/activate.ps1` - Windows
 
 ## Python Web
 
