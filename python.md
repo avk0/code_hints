@@ -1,9 +1,16 @@
 ## Python Environment
 
-create new virtual environment \
+Create virtual environment \
 `virtualenv -p python310 env` \
-`source env/bin/activate` - Linux
-`env/Scripts/activate.ps1` - Windows
+`python -m venv ./venv`
+
+
+Activate vitrual env. \
+`source env/bin/activate` - Linux \
+`.\env\Scripts\Activate.ps1` - Windows
+
+Deactivate vitrual env. \
+`deactivate`
 
 ## Python Web
 
