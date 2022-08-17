@@ -4,7 +4,6 @@ Create virtual environment \
 `virtualenv -p python310 env` \
 `python -m venv ./venv`
 
-
 Activate vitrual env. \
 `source env/bin/activate` - Linux \
 `.\env\Scripts\Activate.ps1` - Windows
@@ -12,8 +11,11 @@ Activate vitrual env. \
 Deactivate vitrual env. \
 `deactivate`
 
-List of Python packages in venv.
+List of Python packages in venv. \
 `pip list`
+
+Save dependencies to requirements.txt file \
+`pip freeze > requirements.txt`
 
 ## Python Web
 
