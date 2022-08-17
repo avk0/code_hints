@@ -12,6 +12,9 @@ Activate vitrual env. \
 Deactivate vitrual env. \
 `deactivate`
 
+List of Python packages in venv.
+`pip list`
+
 ## Python Web
 
 Async - [Celery](https://github.com/celery/celery)
