@@ -4,7 +4,7 @@
 `git push`
 
 Set user_name and email \
-`git config --global user.name "FIRST_NAME LAST_NAME"`
+`git config --global user.name "FIRST_NAME LAST_NAME"` \
 `git config --global user.email "MY_NAME@example.com"`
 
 List of all remotes \
