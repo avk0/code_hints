@@ -26,5 +26,6 @@ login to remote docker hub \
 push container to remote
 `docker push CONTAINER_REGISTRY_URL/TAG_NAME`	
 
-save docker image as archive \
-`docker save my-image:latest > my-image.tar`
+save and load docker image as archive \
+`docker save [image] -o file.tar`
+`docker load -i file.tar`
