@@ -1,11 +1,12 @@
 show list of built images \
-`docker images`	
+`docker images`	or \
+`docker image ls`
 
 show list of running containers \
 `docker ps [-a]`	
 
 build from PATH \
-`docker build -t TAG PATH`	
+`docker build -t TAG PATH`
 
 run image with port mapping \
 `docker run -p LOCAL_PORT:IMAGE_PORT IMAGE_TAG`	
@@ -24,3 +25,6 @@ login to remote docker hub \
 
 push container to remote
 `docker push CONTAINER_REGISTRY_URL/TAG_NAME`	
+
+save docker image as archive \
+`docker save my-image:latest > my-image.tar`
