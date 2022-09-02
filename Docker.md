@@ -11,6 +11,10 @@ build from PATH \
 run image with port mapping \
 `docker run -p LOCAL_PORT:IMAGE_PORT IMAGE_TAG`	
 
+run image if ctrl+C not working \
+`docker run -it IMAGE_TAG`	\
+`-d` - for detached mode
+
 stop running image \
 `docker stop CONTAINER_ID`	
 
