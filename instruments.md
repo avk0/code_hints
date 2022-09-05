@@ -1,7 +1,12 @@
 ## Web
 
-Web API requests -
-[Postman](https://www.postman.com/)
+[Postman](https://www.postman.com/) - Web API requests \ 
+[Swagger](https://swagger.io/) - Web API Documentation
 
-Web API Documentation -
-[Swagger](https://swagger.io/)
+## Infra
+
+[Portainer](https://www.portainer.io/) - Docker/Kubernetes platform with GUI
+
+## Database
+
+[DBeaver](https://dbeaver.io/) - Database GUI
