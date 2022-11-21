@@ -1,11 +1,11 @@
 ## Web
 
-[Postman](https://www.postman.com/) - Web API requests \ 
+[Postman](https://www.postman.com/) - Web API requests \
 [Swagger](https://swagger.io/) - Web API Documentation
 
 ## Infra
 
-[Ansimble]() - routine IT automation tool
+[Ansimble]() - routine IT automation tool \
 [Portainer](https://www.portainer.io/) - Docker/Kubernetes platform with GUI
 
 ## Database
